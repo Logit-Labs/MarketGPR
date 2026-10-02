@@ -1,0 +1,7 @@
+numpy==2.4.6
+pandas==3.0.5
+requests==2.34.2
+urllib3==2.7.0
+xlrd==2.0.2          # CI .xls downloads
+statsmodels==0.15.0  # optional regression/HAC diagnostics
+scipy==1.18.0        # optional statistical diagnostics
